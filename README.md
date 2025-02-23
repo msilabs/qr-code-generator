@@ -8,7 +8,7 @@ Check out the live demo: [QR Code Generator](https://msilabs.github.io/qr-code-g
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/cff52197-e4c2-444f-8068-d404a09a8483)
+![image](screenshot.png)
 
 ## Features
 
