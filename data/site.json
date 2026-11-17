@@ -1,7 +1,7 @@
 {
     "name": "QR Code Generator",
     "tagline": "Free & open source",
-    "description": "This open-source project allows users to easily generate QR codes using a simple and responsive web interface.",
+    "description": "Make QR codes for links, Wi-Fi, email, calls and SMS, add your logo, and download PNG or SVG. Free, open source and runs in your browser.",
     "lang": "en",
     "url": "https://msilabs.github.io",
     "repo": "https://github.com/msilabs/qr-code-generator",

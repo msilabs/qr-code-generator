@@ -1,6 +1,6 @@
-# qr-code-generator
+# QR Code Generator
 
-This open-source project allows users to easily generate QR codes using a simple and responsive web interface.
+Make QR codes for links, Wi-Fi, email, calls and SMS, add your logo, and download PNG or SVG. Everything runs in the browser, no login.
 
 ## Demo
 
@@ -15,6 +15,7 @@ Check out the live demo: [QR Code Generator](https://msilabs.github.io/qr-code-g
 - **Live preview:** the code updates as you type, no button to press.
 - **Content types:** URL, plain text, Wi-Fi login, email, phone call and SMS.
 - **Styling:** color presets or any foreground/background color, square, rounded or dot modules, error correction level and quiet zone.
+- **Logo:** upload an image to sit in the middle inside a rounded frame. Error correction switches to level H so the code still scans.
 - **Export:** PNG at 512, 1024 or 2048 px, print-ready SVG, or copy the image to the clipboard.
 - **Private:** everything runs in the browser. Style settings are kept in `localStorage`; Wi-Fi passwords are never saved.
 - **Light and dark theme**, responsive on phones and desktops.

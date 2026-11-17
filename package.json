@@ -1,7 +1,7 @@
 {
     "name": "qr-code-generator",
     "private": true,
-    "description": "A simple and responsive QR code generator",
+    "description": "QR codes for links, Wi-Fi, email, calls and SMS, with your logo, as PNG or SVG",
     "engines": {
         "node": ">=22"
     },
